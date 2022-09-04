@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+    apache:
+        image: "php:7.2-apache"
+        container_name: nimbus_icons_php
+        restart: always
+        ports:
+            - "80:80"
+        volumes:
+            - ./:/var/www/html
