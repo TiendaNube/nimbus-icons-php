@@ -12,11 +12,10 @@ $ composer require tiendanube/nimbus-icons-php
 ## How to use
 ```php
 <?php
-
-require_once('./src/NimbusIcons/Icon.php');
+require 'config.php';
+require ROOT_PATH . '/NimbusIcons/Icon.php';
 
 use Nimbus\Icon;
-
 // Icon::get(ICON_NAME, SIZE, COLOR)
 $icon = Icon::get("home", 20, '#000000');
 echo $icon;
