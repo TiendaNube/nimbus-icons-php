@@ -2,8 +2,6 @@
 
 This is a PHP version from [Nimbus Icon](https://github.com/TiendaNube/nimbus-icons)
 
-Nimbus Icon version 0.2.7
-
 ## Get started
 
 This project using composer.
@@ -163,3 +161,13 @@ echo $icon;
 | volume               |
 | wallet               |
 | whatsapp             |
+
+## Test locally
+
+We have a simple docker file to test locally, run:
+
+```sh
+$ docker-compose up
+```
+
+And open: `http://localhost/src/example.php` to see live sample.
