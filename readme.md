@@ -16,9 +16,6 @@ $ composer require tiendanube/nimbus-icons-php
 
 ```php
 <?php
-require __DIR__ . '/../config.php';
-require SRC_PATH . '/NimbusIcons/Icon.php';
-
 use Nimbus\Icon;
 
 // Icon::get(ICON_NAME, SIZE, COLOR)
