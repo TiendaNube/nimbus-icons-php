@@ -1,5 +1,5 @@
 {
-    "name": "tiendanube/nimbus-icons-php",
+    "name": "tiendanube-nimbus/icons",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -10,12 +10,12 @@
     ],
     "autoload": {
         "psr-4": {
-          "NimbusIcons\\": "src/NimbusIcons/"
+            "NimbusIcons\\": "src/NimbusIcons/"
         },
         "files": [
-          "src/NimbusIcons/Icons.php"
+            "src/NimbusIcons/Icons.php"
         ]
-      },
+    },
     "require": {},
     "require-dev": {
         "orchestra/testbench": "^3.8"
