@@ -31,9 +31,9 @@ Params allowed on `Icon::get()` method
 | `$size`  | **int**    | _false_  | 16        |
 | `$color` | **string** | _false_  | "#000000" |
 
-<details>
-  <summary><h3> Available Icons </h3></summary>
-  To use on `$name` param as string.
+### Available Icons (click to open)
+
+To use on `$name` param as string.
 
 | Available icons      | Preview                                                                                                                                                      |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -174,7 +174,6 @@ Params allowed on `Icon::get()` method
 | wallet               | <img align="center" width="30" src="https://raw.githubusercontent.com/TiendaNube/nimbus-icons-php/develop/src/static/nimbus-icons/wallet.svg">               |
 | whatsapp             | <img align="center" width="30" src="https://raw.githubusercontent.com/TiendaNube/nimbus-icons-php/develop/src/static/nimbus-icons/whatsapp.svg">             |
 
-</details>
 ## Test locally
 
 We have a simple docker file to test locally, run:
