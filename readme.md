@@ -31,7 +31,7 @@ Params allowed on `Icon::get()` method
 | `$size`  | **int**    | _false_  | 16        |
 | `$color` | **string** | _false_  | "#000000" |
 
-### Available Icons (click to open)
+### Available Icons
 
 To use on `$name` param as string.
 
