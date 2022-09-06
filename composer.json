@@ -13,7 +13,7 @@
             "NimbusIcons\\": "src/NimbusIcons/"
         },
         "files": [
-            "src/NimbusIcons/Icons.php"
+            "src/NimbusIcons/Icon.php"
         ]
     },
     "require": {},
