@@ -2,6 +2,8 @@
 
 This is a PHP version from [Nimbus Icon](https://github.com/TiendaNube/nimbus-icons)
 
+👾 See live [demo here](https://phpsandbox.io/e/x/loklf?layout=EditorPreview&defaultPath=%2F&theme=dark&showExplorer=no&openedFiles=)
+
 ## Get started
 
 This project using composer.
