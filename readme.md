@@ -37,8 +37,8 @@ Params allowed on `Icon::get()` method
 
 To use on `$name` param as string.
 
-| Available icons      | Preview                                                                                                                                                      |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Available icons      | Preview                                                                                 |
+| -------------------- | --------------------------------------------------------------------------------------- |
 | accordion            | <img align="center" width="30" src="/src/static/nimbus-icons/accordion.svg">            |
 | align-center         | <img align="center" width="30" src="/src/static/nimbus-icons/align-center.svg">         |
 | align-left           | <img align="center" width="30" src="/src/static/nimbus-icons/align-left.svg">           |
@@ -56,6 +56,7 @@ To use on `$name` param as string.
 | box-unpacked         | <img align="center" width="30" src="/src/static/nimbus-icons/box-unpacked.svg">         |
 | briefcase            | <img align="center" width="30" src="/src/static/nimbus-icons/briefcase.svg">            |
 | browser              | <img align="center" width="30" src="/src/static/nimbus-icons/browser.svg">              |
+| browser-search       | <img align="center" width="30" src="/src/static/nimbus-icons/browser-search.svg">       |
 | calendar-days        | <img align="center" width="30" src="/src/static/nimbus-icons/calendar-days.svg">        |
 | calendar             | <img align="center" width="30" src="/src/static/nimbus-icons/calendar.svg">             |
 | camera               | <img align="center" width="30" src="/src/static/nimbus-icons/camera.svg">               |
@@ -72,6 +73,7 @@ To use on `$name` param as string.
 | close                | <img align="center" width="30" src="/src/static/nimbus-icons/close.svg">                |
 | code                 | <img align="center" width="30" src="/src/static/nimbus-icons/code.svg">                 |
 | cog                  | <img align="center" width="30" src="/src/static/nimbus-icons/cog.svg">                  |
+| color-palette        | <img align="center" width="30" src="/src/static/nimbus-icons/color-palette.svg">        |
 | copy                 | <img align="center" width="30" src="/src/static/nimbus-icons/copy.svg">                 |
 | credit-card          | <img align="center" width="30" src="/src/static/nimbus-icons/credit-card.svg">          |
 | desktop              | <img align="center" width="30" src="/src/static/nimbus-icons/desktop.svg">              |
@@ -137,6 +139,7 @@ To use on `$name` param as string.
 | planet               | <img align="center" width="30" src="/src/static/nimbus-icons/planet.svg">               |
 | plus-circle          | <img align="center" width="30" src="/src/static/nimbus-icons/plus-circle.svg">          |
 | printer              | <img align="center" width="30" src="/src/static/nimbus-icons/printer.svg">              |
+| qr-code              | <img align="center" width="30" src="/src/static/nimbus-icons/qr-code.svg">              |
 | pyramid              | <img align="center" width="30" src="/src/static/nimbus-icons/pyramid.svg">              |
 | question-circle      | <img align="center" width="30" src="/src/static/nimbus-icons/question-circle.svg">      |
 | real                 | <img align="center" width="30" src="/src/static/nimbus-icons/real.svg">                 |
@@ -172,6 +175,7 @@ To use on `$name` param as string.
 | user-circle          | <img align="center" width="30" src="/src/static/nimbus-icons/user-circle.svg">          |
 | user-group           | <img align="center" width="30" src="/src/static/nimbus-icons/user-group.svg">           |
 | user                 | <img align="center" width="30" src="/src/static/nimbus-icons/user.svg">                 |
+| vertical-stacks      | <img align="center" width="30" src="/src/static/nimbus-icons/vertical-stacks.svg">      |
 | volume               | <img align="center" width="30" src="/src/static/nimbus-icons/volume.svg">               |
 | wallet               | <img align="center" width="30" src="/src/static/nimbus-icons/wallet.svg">               |
 | whatsapp             | <img align="center" width="30" src="/src/static/nimbus-icons/whatsapp.svg">             |
