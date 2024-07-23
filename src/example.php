@@ -56,6 +56,7 @@
         top: 10px;
         right: 10px;
         color: #606060;
+        line-height: 1;
     }
 </style>
 
