@@ -30,11 +30,32 @@
         border-radius: 10px;
         gap: 4px;
         font-weight: 500;
+        position: relative;
     }
 
     .icon-wrapper p {
         margin: 0;
         user-select: all;
+    }
+
+    .icon-name {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+    }
+
+    button {
+        background: #fff;
+        padding: 0;
+        border: 0;
+        border-radius: 4px;
+        margin: 0;
+        width: 32px;
+        height: 32px;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        color: #606060;
     }
 </style>
 
@@ -50,7 +71,9 @@
                             $iconName = basename($icon, '.svg');
                             echo '<div class="icon-wrapper">';
                             echo Icon::get($iconName, 40, '#000000');
-                            echo '<p>'.$iconName.'</p>';
+                            echo '<div class="icon-name" id="'.$iconName.'">'.$iconName;
+                            echo '<button data-clipboard-target="#'.$iconName.'"class="js-copy">'. Icon::get('copy').'</button>';
+                            echo '</div>';
                             echo '</div>';
                         }
                     ?>
@@ -58,5 +81,9 @@
             </div>
         </div>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
+    <script>
+        new ClipboardJS('.js-copy');
+    </script>
 </body>
 </html>
