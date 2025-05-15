@@ -40,7 +40,6 @@ To use on `$name` param as string.
 | Available icons      | Preview                                                                                 |
 | -------------------- | --------------------------------------------------------------------------------------- |
 | accordion            | <img align="center" width="30" src="/src/static/nimbus-icons/accordion.svg">            |
-| ai-stars             | <img align="center" width="30" src="/src/static/nimbus-icons/ai-stars.svg">            |
 | align-center         | <img align="center" width="30" src="/src/static/nimbus-icons/align-center.svg">         |
 | align-left           | <img align="center" width="30" src="/src/static/nimbus-icons/align-left.svg">           |
 | align-right          | <img align="center" width="30" src="/src/static/nimbus-icons/align-right.svg">          |
@@ -107,6 +106,7 @@ To use on `$name` param as string.
 | glasses              | <img align="center" width="30" src="/src/static/nimbus-icons/glasses.svg">              |
 | globe                | <img align="center" width="30" src="/src/static/nimbus-icons/globe.svg">                |
 | guitar               | <img align="center" width="30" src="/src/static/nimbus-icons/guitar.svg">               |
+| generative-stars     | <img align="center" width="30" src="/src/static/nimbus-icons/generative-stars.svg">     |
 | heart                | <img align="center" width="30" src="/src/static/nimbus-icons/heart.svg">                |
 | history              | <img align="center" width="30" src="/src/static/nimbus-icons/history.svg">              |
 | home                 | <img align="center" width="30" src="/src/static/nimbus-icons/home.svg">                 |
