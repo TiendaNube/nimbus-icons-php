@@ -40,6 +40,7 @@ To use on `$name` param as string.
 | Available icons      | Preview                                                                                 |
 | -------------------- | --------------------------------------------------------------------------------------- |
 | accordion            | <img align="center" width="30" src="/src/static/nimbus-icons/accordion.svg">            |
+| ai-stars             | <img align="center" width="30" src="/src/static/nimbus-icons/ai-stars.svg">            |
 | align-center         | <img align="center" width="30" src="/src/static/nimbus-icons/align-center.svg">         |
 | align-left           | <img align="center" width="30" src="/src/static/nimbus-icons/align-left.svg">           |
 | align-right          | <img align="center" width="30" src="/src/static/nimbus-icons/align-right.svg">          |
