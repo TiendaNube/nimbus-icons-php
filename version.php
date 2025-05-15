@@ -6,7 +6,7 @@
  */
 
 // Current project
-const NIMBUS_ICONS_PHP_VERSION = '0.1.2';
+const NIMBUS_ICONS_PHP_VERSION = '0.1.3';
 
 /* Nimbus icon dependency (only "/src/assets*.svg" dir)
  * https://github.com/TiendaNube/nimbus-design-system/tree/master/packages/icons
