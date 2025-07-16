@@ -1,4 +1,5 @@
 # Nimbus Icons - PHP
+![Nimbus PHP Release](https://img.shields.io/github/v/release/TiendaNube/nimbus-icons-php)
 
 This is a PHP version from [Nimbus Icon](https://github.com/TiendaNube/nimbus-icons)
 
