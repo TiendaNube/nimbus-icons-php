@@ -45,12 +45,16 @@ To use on `$name` param as string.
 | align-left           | <img align="center" width="30" src="/src/static/nimbus-icons/align-left.svg">           |
 | align-right          | <img align="center" width="30" src="/src/static/nimbus-icons/align-right.svg">          |
 | apps                 | <img align="center" width="30" src="/src/static/nimbus-icons/apps.svg">                 |
+| apps-list            | <img align="center" width="30" src="/src/static/nimbus-icons/apps-list.svg">            |
 | archive              | <img align="center" width="30" src="/src/static/nimbus-icons/archive.svg">              |
+| arrow-down           | <img align="center" width="30" src="/src/static/nimbus-icons/arrow-down.svg">           |
 | arrow-left           | <img align="center" width="30" src="/src/static/nimbus-icons/arrow-left.svg">           |
 | arrow-right          | <img align="center" width="30" src="/src/static/nimbus-icons/arrow-right.svg">          |
+| arrowup              | <img align="center" width="30" src="/src/static/nimbus-icons/arrowup.svg">              |
 | arrows-horizontal    | <img align="center" width="30" src="/src/static/nimbus-icons/arrows-horizontal.svg">    |
 | arrows-vertical      | <img align="center" width="30" src="/src/static/nimbus-icons/arrows-vertical.svg">      |
 | backspace            | <img align="center" width="30" src="/src/static/nimbus-icons/backspace.svg">            |
+| bag                  | <img align="center" width="30" src="/src/static/nimbus-icons/bag.svg">                  |
 | barcode              | <img align="center" width="30" src="/src/static/nimbus-icons/barcode.svg">              |
 | bold                 | <img align="center" width="30" src="/src/static/nimbus-icons/bold.svg">                 |
 | box-packed           | <img align="center" width="30" src="/src/static/nimbus-icons/box-packed.svg">           |
@@ -102,6 +106,7 @@ To use on `$name` param as string.
 | fingerprint          | <img align="center" width="30" src="/src/static/nimbus-icons/fingerprint.svg">          |
 | fire                 | <img align="center" width="30" src="/src/static/nimbus-icons/fire.svg">                 |
 | flag                 | <img align="center" width="30" src="/src/static/nimbus-icons/flag.svg">                 |
+| folder               | <img align="center" width="30" src="/src/static/nimbus-icons/folder.svg">               |
 | font                 | <img align="center" width="30" src="/src/static/nimbus-icons/font.svg">                 |
 | forbidden            | <img align="center" width="30" src="/src/static/nimbus-icons/forbidden.svg">            |
 | gift-box             | <img align="center" width="30" src="/src/static/nimbus-icons/gift-box.svg">             |
@@ -114,13 +119,17 @@ To use on `$name` param as string.
 | heart                | <img align="center" width="30" src="/src/static/nimbus-icons/heart.svg">                |
 | history              | <img align="center" width="30" src="/src/static/nimbus-icons/history.svg">              |
 | home                 | <img align="center" width="30" src="/src/static/nimbus-icons/home.svg">                 |
+| horizontal-padding   | <img align="center" width="30" src="/src/static/nimbus-icons/horizontal-padding.svg">   |
+| ia-coin              | <img align="center" width="30" src="/src/static/nimbus-icons/ia-coin.svg">              |
 | id-card              | <img align="center" width="30" src="/src/static/nimbus-icons/id-card.svg">              |
 | infinite             | <img align="center" width="30" src="/src/static/nimbus-icons/infinite.svg">             |
 | info-circle          | <img align="center" width="30" src="/src/static/nimbus-icons/info-circle.svg">          |
 | invoice              | <img align="center" width="30" src="/src/static/nimbus-icons/invoice.svg">              |
 | italic               | <img align="center" width="30" src="/src/static/nimbus-icons/italic.svg">               |
+| layout               | <img align="center" width="30" src="/src/static/nimbus-icons/layout.svg">               |
 | life-ring            | <img align="center" width="30" src="/src/static/nimbus-icons/life-ring.svg">            |
 | lightbulb            | <img align="center" width="30" src="/src/static/nimbus-icons/lightbulb.svg">            |
+| lightning-bolt       | <img align="center" width="30" src="/src/static/nimbus-icons/lightning-bolt.svg">       |
 | link-off             | <img align="center" width="30" src="/src/static/nimbus-icons/link-off.svg">             |
 | link                 | <img align="center" width="30" src="/src/static/nimbus-icons/link.svg">                 |
 | list                 | <img align="center" width="30" src="/src/static/nimbus-icons/list.svg">                 |
@@ -128,11 +137,14 @@ To use on `$name` param as string.
 | lock-open            | <img align="center" width="30" src="/src/static/nimbus-icons/lock-open.svg">            |
 | lock                 | <img align="center" width="30" src="/src/static/nimbus-icons/lock.svg">                 |
 | log-out              | <img align="center" width="30" src="/src/static/nimbus-icons/log-out.svg">              |
+| magic-wand           | <img align="center" width="30" src="/src/static/nimbus-icons/magic-wand.svg">           |
 | mail                 | <img align="center" width="30" src="/src/static/nimbus-icons/mail.svg">                 |
+| margin               | <img align="center" width="30" src="/src/static/nimbus-icons/margin.svg">               |
 | marketing            | <img align="center" width="30" src="/src/static/nimbus-icons/marketing.svg">            |
 | mate                 | <img align="center" width="30" src="/src/static/nimbus-icons/mate.svg">                 |
 | meta                 | <img align="center" width="30" src="/src/static/nimbus-icons/meta.svg">                 |
 | menu                 | <img align="center" width="30" src="/src/static/nimbus-icons/menu.svg">                 |
+| microphone           | <img align="center" width="30" src="/src/static/nimbus-icons/microphone.svg">           |
 | mobile               | <img align="center" width="30" src="/src/static/nimbus-icons/mobile.svg">               |
 | money                | <img align="center" width="30" src="/src/static/nimbus-icons/money.svg">                |
 | moon                 | <img align="center" width="30" src="/src/static/nimbus-icons/moon.svg">                 |
@@ -140,12 +152,15 @@ To use on `$name` param as string.
 | obelisk              | <img align="center" width="30" src="/src/static/nimbus-icons/obelisk.svg">              |
 | online-store         | <img align="center" width="30" src="/src/static/nimbus-icons/online-store.svg">         |
 | ordered-list         | <img align="center" width="30" src="/src/static/nimbus-icons/ordered-list.svg">         |
+| paper-plane          | <img align="center" width="30" src="/src/static/nimbus-icons/paper-plane.svg">          |
 | pencil               | <img align="center" width="30" src="/src/static/nimbus-icons/pencil.svg">               |
 | peso                 | <img align="center" width="30" src="/src/static/nimbus-icons/peso.svg">                 |
 | pinterest            | <img align="center" width="30" src="/src/static/nimbus-icons/pinterest.svg">            |
 | picture              | <img align="center" width="30" src="/src/static/nimbus-icons/picture.svg">              |
 | pix                  | <img align="center" width="30" src="/src/static/nimbus-icons/pix.svg">                  |
 | planet               | <img align="center" width="30" src="/src/static/nimbus-icons/planet.svg">               |
+| play                 | <img align="center" width="30" src="/src/static/nimbus-icons/play.svg">                 |
+| plus                 | <img align="center" width="30" src="/src/static/nimbus-icons/plus.svg">                 |
 | plus-circle          | <img align="center" width="30" src="/src/static/nimbus-icons/plus-circle.svg">          |
 | printer              | <img align="center" width="30" src="/src/static/nimbus-icons/printer.svg">              |
 | qr-code              | <img align="center" width="30" src="/src/static/nimbus-icons/qr-code.svg">              |
@@ -161,6 +176,7 @@ To use on `$name` param as string.
 | share                | <img align="center" width="30" src="/src/static/nimbus-icons/share.svg">                |
 | shopping-cart        | <img align="center" width="30" src="/src/static/nimbus-icons/shopping-cart.svg">        |
 | shot                 | <img align="center" width="30" src="/src/static/nimbus-icons/shot.svg">                 |
+| sidebar              | <img align="center" width="30" src="/src/static/nimbus-icons/sidebar.svg">              |
 | size-height          | <img align="center" width="30" src="/src/static/nimbus-icons/size-height.svg">          |
 | size-width           | <img align="center" width="30" src="/src/static/nimbus-icons/size-width.svg">           |
 | sliders              | <img align="center" width="30" src="/src/static/nimbus-icons/sliders.svg">              |
@@ -169,13 +185,18 @@ To use on `$name` param as string.
 | steps                | <img align="center" width="30" src="/src/static/nimbus-icons/steps.svg">                |
 | sticky-note          | <img align="center" width="30" src="/src/static/nimbus-icons/sticky-note.svg">          |
 | stop                 | <img align="center" width="30" src="/src/static/nimbus-icons/stop.svg">                 |
+| stop-filled          | <img align="center" width="30" src="/src/static/nimbus-icons/stop-filled.svg">          |
 | store                | <img align="center" width="30" src="/src/static/nimbus-icons/store.svg">                |
+| subcategory          | <img align="center" width="30" src="/src/static/nimbus-icons/subcategory.svg">          |
 | sun                  | <img align="center" width="30" src="/src/static/nimbus-icons/sun.svg">                  |
 | tag                  | <img align="center" width="30" src="/src/static/nimbus-icons/tag.svg">                  |
 | telephone            | <img align="center" width="30" src="/src/static/nimbus-icons/telephone.svg">            |
 | text-size            | <img align="center" width="30" src="/src/static/nimbus-icons/text-size.svg">            |
-| tiktok               | <img align="center" width="30" src="/src/static/nimbus-icons/tiktok.svg">               |
+| thumbnail            | <img align="center" width="30" src="/src/static/nimbus-icons/thumbnail.svg">            |
+| thumbs-down          | <img align="center" width="30" src="/src/static/nimbus-icons/thumbs-down.svg">          |
+| thumbs-up            | <img align="center" width="30" src="/src/static/nimbus-icons/thumbs-up.svg">            |
 | tiendanube           | <img align="center" width="30" src="/src/static/nimbus-icons/tiendanube.svg">           |
+| tiktok               | <img align="center" width="30" src="/src/static/nimbus-icons/tiktok.svg">               |
 | tools                | <img align="center" width="30" src="/src/static/nimbus-icons/tools.svg">                |
 | transfer-peso        | <img align="center" width="30" src="/src/static/nimbus-icons/transfer-peso.svg">        |
 | transfer-real        | <img align="center" width="30" src="/src/static/nimbus-icons/transfer-real.svg">        |
@@ -187,7 +208,10 @@ To use on `$name` param as string.
 | user-circle          | <img align="center" width="30" src="/src/static/nimbus-icons/user-circle.svg">          |
 | user-group           | <img align="center" width="30" src="/src/static/nimbus-icons/user-group.svg">           |
 | user                 | <img align="center" width="30" src="/src/static/nimbus-icons/user.svg">                 |
+| vertical-padding     | <img align="center" width="30" src="/src/static/nimbus-icons/vertical-padding.svg">     |
+| vertical-spacing     | <img align="center" width="30" src="/src/static/nimbus-icons/vertical-spacing.svg">     |
 | vertical-stacks      | <img align="center" width="30" src="/src/static/nimbus-icons/vertical-stacks.svg">      |
+| voice                | <img align="center" width="30" src="/src/static/nimbus-icons/voice.svg">                |
 | volume               | <img align="center" width="30" src="/src/static/nimbus-icons/volume.svg">               |
 | wallet               | <img align="center" width="30" src="/src/static/nimbus-icons/wallet.svg">               |
 | whatsapp             | <img align="center" width="30" src="/src/static/nimbus-icons/whatsapp.svg">             |
@@ -197,7 +221,7 @@ To use on `$name` param as string.
 We have a simple docker file to test locally, run:
 
 ```sh
-$ docker-compose up
+$ docker compose up -d
 ```
 
-And open: `http://localhost/src/example.php` to see live sample.
+And open: `http://localhost:3007/src/example.php` to see live sample.
