@@ -6,6 +6,6 @@ services:
         container_name: nimbus_icons_php
         restart: always
         ports:
-            - "80:80"
+            - "3007:80"
         volumes:
             - ./:/var/www/html
